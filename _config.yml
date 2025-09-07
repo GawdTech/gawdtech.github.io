@@ -168,6 +168,12 @@ collections:
   tabs:
     output: true
     sort_by: order
+  products:
+    output: true
+  services:
+    output: true
+  shop:
+    output: true
 
 defaults:
   - scope:
